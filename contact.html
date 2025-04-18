@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="icon" type="image/x-icon" href="images/logo.png">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="header-content">
+            <a href="index.html"><img src="images/logo.png" alt="Logo" class="logo"></a>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.html">About Team</a></li>
+                    <li><a href="index.html">Event Managers</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <h1>Contact Us</h1>
+        <form id="contactForm">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required>
+
+            <label for="mobile-no">Mobile no:</label>
+            <input type="tel" id="mobile-no" name="mobile-no" placeholder="Enter your number" required>
+
+            <label for="event">Event Type:</label>
+            <select id="event" name="event" required>
+                <option value="" disabled>Select an event</option>
+                <option value="Tech Conference">Tech Conference</option>
+                <option value="Startup Expo">Startup Expo</option>
+                <option value="AI & Machine Learning Workshop">AI & Machine Learning Workshop</option>
+                <option value="Digital Marketing Summit">Digital Marketing Summit</option>
+                <option value="Cybersecurity Forum">Cybersecurity Forum</option>
+                <option value="Data Science Forum">Data Science Forum</option>
+                <option value="Other">Other</option>
+            </select>
+
+            <label for="good">Good</label>
+            <input type="radio" id="good" name="1">
+            <label for="bad">Bad</label>
+            <input type="radio" id="bad" name="1">
+
+            <label for="date">Date:</label>
+            <input type="date" id="date" name="date" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="5" placeholder="Enter your message" required></textarea>
+
+            <input type="checkbox" id="check" required>
+            <label for="check">I accept the policy*.</label>
+
+            <button type="submit">Submit</button>
+        </form>
+
+        <div id="response"></div>
+        <div id="response"></div>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 IT Event Management. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>

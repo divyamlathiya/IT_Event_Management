@@ -1,0 +1,34 @@
+{
+    "team": [
+        {
+            "name": "Divyam Lathiya",
+            "role": "CEO",
+            "description": "Divyam has over 10 years of experience in event planning.",
+            "image": "images/divyam.png"
+        },
+        {
+            "name": "Parth Bharoliya",
+            "role": "Event Coordinator",
+            "description": "Parth has over 10 years of experience in event planning.",
+            "image": "images/parth.jpg"
+        },
+        {
+            "name": "Kashyap Shekhda",
+            "role": "Marketing Specialist",
+            "description": "Kashyap handles all our marketing campaigns.",
+            "image": "images/kashyap.png"
+        },
+        {
+            "name": "Mayank Narola",
+            "role": "Technical Lead",
+            "description": "Mayank is our tech wizard, responsible for all the technical aspects of our events.",
+            "image": "images/mayank.jpg"
+        },
+        {
+            "name": "Bhautik Gami",
+            "role": "Creative Designer",
+            "description": "Bhautik brings our events to life with her stunning designs and creative ideas.",
+            "image": "images/bhautik.jpg"
+        }
+    ]
+}

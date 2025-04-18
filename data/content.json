@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "image": "images/expert-team.jpg",
+            "title": "Expert Team",
+            "description": "Our team consists of industry experts with years of experience in event planning, technology, and marketing."
+        },
+        {
+            "image": "images/cutting-edge-tech.jpg",
+            "title": "Cutting-Edge Technology",
+            "description": "We use the latest tools and technologies to ensure your event runs smoothly and efficiently."
+        },
+        {
+            "image": "images/custom-solutions.jpg",
+            "title": "Custom Solutions",
+            "description": "Every event is unique. We tailor our services to meet your specific needs and goals."
+        }
+    ],
+    "testimonials": [
+        {
+            "image": "images/client1.jpg",
+            "name": "Harshil Gummasana",
+            "role": "CEO of Tech Innovators",
+            "rating": "⭐⭐⭐⭐⭐",
+            "text": "IT Event Management organized the best hackathon we’ve ever had. Their attention to detail and professionalism were outstanding!"
+        },
+        {
+            "image": "images/client2.jpg",
+            "name": "Krish Lathiya",
+            "role": "Marketing Director",
+            "rating": "⭐⭐⭐⭐⭐",
+            "text": "The conference was a huge success, thanks to the amazing team at IT Event Management. Highly recommended!"
+        }
+    ]
+}

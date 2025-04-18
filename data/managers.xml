@@ -1,0 +1,23 @@
+<managers>
+    <manager>
+        <name>Mayank Narola</name>
+        <role>Senior Event Manager</role>
+        <description>mayank has over 10 years of experience in managing large-scale IT events.</description>
+        <image>images/mayank.jpg</image>
+        <email>mayank.narola@example.com</email>
+    </manager>
+    <manager>
+        <name>Harshil Gumasanna</name>
+        <role>Event Coordinator</role>
+        <description>Harshil specializes in logistics and ensures every event runs smoothly.</description>
+        <image>images/harshil.png</image>
+        <email>harshil.gumassana@example.com</email>
+    </manager>
+    <manager>
+        <name>Krish Lathiya</name>
+        <role>Technical Event Manager</role>
+        <description>Krish handles all technical aspects, from AV setups to live streaming.</description>
+        <image>images/krish.png</image>
+        <email>krish.lathiya@example.com</email>
+    </manager>
+</managers>

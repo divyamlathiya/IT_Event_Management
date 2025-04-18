@@ -1,0 +1,40 @@
+{
+    "events": [
+        {
+            "name": "Tech Conference 2023",
+            "date": "October 15, 2023",
+            "description": "A gathering of tech enthusiasts and industry leaders.",
+            "image": "images/tech-conf.jpg"
+        },
+        {
+            "name": "Startup Expo",
+            "date": "November 5, 2023",
+            "description": "Showcasing innovative startups and connecting them with investors.",
+            "image": "images/startup-expo.jpg"
+        },
+        {
+            "name": "AI & Machine Learning Workshop",
+            "date": "September 20, 2023November 5, 2023",
+            "description": "Hands-on workshop exploring the latest trends in AI and ML.",
+            "image": "images/ai-workshop-img.jpg"
+        },
+        {
+            "name": "Digital Marketing Summit",
+            "date": "August 10, 2023",
+            "description": "Learn from experts about the latest strategies in digital marketing.",
+            "image": "images/digi-market.jpg"
+        },
+        {
+            "name": "Cybersecurity Forum",
+            "date": "December 1, 2023",
+            "description": "Discussing the challenges and solutions in cybersecurity.",
+            "image": "images/cyber-sec.jpg"
+        },
+        {
+            "name": "Data Science Forum",
+            "date": "March 1, 2022",
+            "description": "Discussing the challenges and solutions in Data Science.",
+            "image": "images/event5.jpg"
+        }
+    ]
+}
