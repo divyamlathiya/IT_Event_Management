@@ -2,4 +2,5 @@
 
 **Demo**: https://divyamlathiya.github.io/IT_Event_Management/
 
-Author - **Divyam Lathiya**
+---
+**Divyam Lathiya**
