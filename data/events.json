@@ -14,7 +14,7 @@
         },
         {
             "name": "AI & Machine Learning Workshop",
-            "date": "September 20, 2023November 5, 2023",
+            "date": "September 20, 2023",
             "description": "Hands-on workshop exploring the latest trends in AI and ML.",
             "image": "images/ai-workshop-img.jpg"
         },
@@ -37,4 +37,5 @@
             "image": "images/event5.jpg"
         }
     ]
+
 }
